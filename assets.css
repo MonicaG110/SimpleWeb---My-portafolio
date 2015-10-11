@@ -3,20 +3,32 @@ html {
 	font-size: 13px
 }
 
+.domsclass {
+	margin-right: 15%;
+	margin-left: 15%;
+}
+
 .hero {
 
 	background: url("images/backpic.jpg")  no-repeat;
     background-attachment: fixed;
-    background-position: center; 
-	text-align:center;
+    background-size: 97.5% 100%;
+    text-align: center;
+    color:#FFF; 
+}
+
+.menu ul {
+	padding-left: -30px;
 }
 
 .menu li {
-
 	margin: 15px 5px;
-	text-decoration:none;
-	display:inline;
+	display: inline;
 	font-size: inherit 8px;
+}
+
+.menu li a {
+	text-decoration: none;
 
 }
 
