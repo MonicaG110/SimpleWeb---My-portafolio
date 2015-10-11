@@ -1,0 +1,27 @@
+html {
+	font-family:"Helvetica" , "Sans-serif";
+	font-size: 13px
+}
+
+.hero {
+
+	background: url("images/backpic.jpg")  no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+	text-align:center;
+}
+
+.menu li {
+
+	margin: 15px 5px;
+	text-decoration:none;
+	display:inline;
+	font-size: inherit 8px;
+
+}
+
+
+
+li a {
+	
+	}
