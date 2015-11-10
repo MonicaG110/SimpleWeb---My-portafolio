@@ -21,7 +21,6 @@ html {
     height: 100%;
     padding-top: 60px;
     font-size: 30px;
-    background: red;
 
 }
 
@@ -43,18 +42,16 @@ html {
 }
 
 .info{
-    display:inline-blockc;
+    display:inline-block;
     width: 33%;
     padding: 10px;
-    background: blue;
+    background: #276320;
     border-style: groove;
+    list-style-type: none;
 }
    
 
-}
-
-.info ul li {
-
+.details {
     width: 33%;
     padding: 10px;
     border: 2px solid gray;
@@ -62,8 +59,6 @@ html {
     list-style-type: none;
 
 }
-
-
 
 .type {  
   padding-top: 15px;
@@ -87,18 +82,18 @@ text-align: center;
 
 }
 
-.small {
+form{
+    text-align: center;
+}
+
+.info-one {
     width:33%;
     padding:10px;
     display: inline-block;
-    background: red;
+    background: #183394;
     border-style: groove;
 }
 
-.small ul li{
-    list-style-type: none;
-
-}
 
 li{
     text-align: center;
@@ -127,16 +122,16 @@ li{
 
 }
 
-.enterprise {
+.info-two {
     width: 33%;
     padding: 10px;
-    background: green;
-    display: inline;
+    background: #44444C;
+    display: inline-block;
     border-style: groove;
 
 }
 
-.enterprise ul li {
+.info-two ul li {
     list-style-type: none;
 
 }
