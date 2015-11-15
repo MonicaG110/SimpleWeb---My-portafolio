@@ -18,151 +18,83 @@ html {
     text-align: center;
     color:#FFF;
     width: 100%;
-    height: 100%;
+    height: 70%;
     padding-top: 60px;
     font-size: 30px;
+}
+
+.menu a{
+float:left;
+display: inline-block;
+margin:5px;
 
 }
 
-.container {
+.menu ul{
+list-style:none;
+}
+
+.mainContainer{
+    width: 800px;
+    margin: 0 auto;
     background-color: yellow;
-    overflow:hidden;
-    width:100%;
+    
+}
+.container{
+    background-color: red;
+    display: inline-block;
+    width: 25%;
+    margin: 30px;
+    border-style: solid #DCDCDC;   
+
+}
+.heading{
+    background-color: green;
+    height:90px;
+    list-style-type: none;
+    text-align: center;
+    color: white;
+    padding-top: 15px;
+    border
 }
 
-.menu li {
-	margin: 15px 5px;
-	display: inline;
-	
+.type{
+    font-size: 18px;
 }
 
-.menu li a {
-	text-decoration: none;
+.money{
+    font-size: 30px;
+}
 
+.month{
+    font-size: 22px;
+}
+
+.details li{ 
+    list-style: none;
+    line-height: 2em;
+    text-align: center; 
+    border-left:1pt solid #DCDCDC;
+    border-bottom: 1pt solid #DCDCDC;   
+}
+
+.details {
+    margin-right: 15px;
+    padding: 0px;
 }
 
 .info{
-    display:inline-block;
-    width: 33%;
-    padding: 10px;
-    background: #276320;
-    border-style: groove;
-    list-style-type: none;
-}
-   
-
-.details {
-    width: 33%;
-    padding: 10px;
-    border: 2px solid gray;
-    margin: 0; 
-    list-style-type: none;
-
-}
-
-.type {  
-  padding-top: 15px;
-  font-size: 20px;
-  color:#FFFFFF;
-  text-align: center;
-}
-
-.money {
-    font-size: 45px;
-    color:#FFFFFF;
-    font-weight: bold;
-    text-align: center;
-}
-
-.month {
-font-size: 15px;
-color:#FFFFFF;
-font-weight: normal;
-text-align: center;
-
-}
-
-form{
-    text-align: center;
-}
-
-.info-one {
-    width:33%;
-    padding:10px;
+    width: 300px;
     display: inline-block;
-    background: #183394;
-    border-style: groove;
-}
-
-
-li{
-    text-align: center;
+    margin:30px;
 
 }
 
-.business {
-    font-size: 20px;
-    color:#FFFFFF;
-    text-align: center;
-
-}
-
-.price{
-    font-size: 45px;
-    color:#FFFFFF;
-    font-weight: bold; 
-    text-align: center;
-
-}
-
-.time {
-    font-size: 20px;
-    color:#FFFFFF;
-    text-align: center;
-
-}
-
-.info-two {
-    width: 33%;
-    padding: 10px;
-    background: #44444C;
+.time{
+    width: 300px;
+    float: left;
     display: inline-block;
-    border-style: groove;
-
+    margin:30px;
 }
-
-.info-two ul li {
-    list-style-type: none;
-
-}
-
-
-.last{
-    font-size: 20px;
-    color:#FFFFFF;
-    text-align: center;
-
-}
-
-.numero{
-    font-size: 45px;
-    color:#FFFFFF;
-    text-align: center;
-
-}
-
-.frecuency{
-    font-size: 20px;
-    color:#FFFFFF;
-    text-align: center;
-
-}
-
-
-
-
-
-
-
 
 

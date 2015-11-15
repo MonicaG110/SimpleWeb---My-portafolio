@@ -1,0 +1,56 @@
+<div>
+    <div class="heading">
+        <span>Personal</span>
+        <span>$5</span>
+        <span>Per month</span>
+    </div>
+    <ul class="stuff">
+        <li>Free Setup</li>
+        <li>Custom sub-domain</li>
+        <li>Free Setup</li>
+        <li>Custom sub-domain</li>
+        <li>Free Setup</li>
+        <li>Custom sub-domain</li>
+    </ul>
+    <div>
+        <button>Choose</button>
+    </div>
+</div>
+
+<div>
+    <div class="heading">
+        <span>Personal</span>
+        <span>$5</span>
+        <span>Per month</span>
+    </div>
+    <ul class="stuff">
+        <li>Free Setup</li>
+        <li>Custom sub-domain</li>
+        <li>Free Setup</li>
+        <li>Custom sub-domain</li>
+        <li>Free Setup</li>
+        <li>Custom sub-domain</li>
+    </ul>
+    <div>
+        <button>Choose</button>
+    </div>
+</div>
+
+<div>
+    <div class="heading">
+        <span>Personal</span>
+        <span>$5</span>
+        <span>Per month</span>
+    </div>
+    <ul class="stuff">
+        <li>Free Setup</li>
+        <li>Custom sub-domain</li>
+        <li>Free Setup</li>
+        <li>Custom sub-domain</li>
+        <li>Free Setup</li>
+        <li>Custom sub-domain</li>
+    </ul>
+    <div>
+        <button>Choose</button>
+    </div>
+</div>
