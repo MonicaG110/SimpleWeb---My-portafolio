@@ -26,12 +26,14 @@ html {
 
 .menu{
     height: 20px;
+
 }
 
 .menu a{
 float:left;
 display: inline-block;
 margin:5px;
+color:#808080;
 
 }
 
@@ -96,20 +98,20 @@ list-style:none;
     text-align: center;
     line-height: 2em;
     border-bottom: 1px solid #DCDCDC;
-    margin-right: 15px;
+    margin-right: 1px;
 }
 
 .details {
     background-color:#E8E8E8;
     text-align: center;
-
+    color:#808080;
+    padding-right: 10px;
 }
 
 .info{
     width: 300px;
     display: inline-block;
     margin:30px;
-
 }
 
 .time{
@@ -118,6 +120,7 @@ list-style:none;
     display: inline-block;
     margin:30px;
 }
+
 .push button{
     text-align: center;
     padding-top: 10px;
@@ -130,3 +133,19 @@ list-style:none;
 .push{
     height: 50px;
 }
+
+.footer{
+height: 30px;
+background-color: black;
+color:white;
+text-align: center;
+padding:10px;
+}
+
+
+
+
+
+
+
+
