@@ -42,55 +42,50 @@ list-style:none;
 }
 
 .mainContainer{
-    width: 800px;
+    width: 700px;
     margin: 0 auto;
 }
 .container{
     display: inline-block;
-    width: 25%;
-    margin: 30px;
+    width: 31%;
+    margin: 5px;
     border-left:1px solid #DCDCDC;
     border-right: 1px solid #DCDCDC;
     border-bottom: 1px solid #DCDCDC;
 }
-.heading{
+
+.personal {
     background-color: green;
-    height:90px;
-    list-style-type: none;
-    text-align: center;
-    color: white;
-    padding-top: 15px;
-    
 }
 
-.One{
+.small-biz{
     background-color: blue;
-    height:90px;
-    list-style-type: none;
-    text-align: center;
-    color: white;
-    padding-top: 15px;  
 }
 
-.Two{
+.enterprise {
     background-color: black;
+}
+
+.heading{
     height:90px;
     list-style-type: none;
     text-align: center;
     color: white;
     padding-top: 15px;
-    
+    padding-bottom: 20px;
 }
+
 .type{
-    font-size: 18px;
+    font-size: 14px;
+    font-weight: bold;
 }
 
 .money{
-    font-size: 30px;
+    font-size: 55px;
 }
 
 .month{
-    font-size: 22px;
+    font-size: 14px;
 }
 
 .details li{ 
@@ -105,42 +100,43 @@ list-style:none;
     background-color:#E8E8E8;
     text-align: center;
     color:#808080;
-    padding-right: 10px;
+    padding: 0;
+    margin: 0;
 }
 
-.info{
-    width: 300px;
+.info-row{
     display: inline-block;
-    margin:30px;
+    margin: 10px 0 15px 0;
 }
 
-.time{
-    width: 300px;
-    float: left;
+.info-col {
     display: inline-block;
-    margin:30px;
+    width: 300px;
+    margin: 0 10px 0 10px;
 }
+
 
 .push button{
     text-align: center;
-    padding-top: 10px;
     height: 30px;
-    border-radius: 5px;
-    margin-left: 50px;
-       
+    border-radius: 15px;
+    background-color: white;
+    border: 1px solid lightgrey;
+    font-weight: bold;
 }
 
 .push{
-    height: 50px;
+    padding: 17px 5px 17px 75px;
 }
 
 .footer{
-height: 30px;
-background-color: black;
-color:white;
-text-align: center;
-padding:10px;
+    height: 30px;
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding:10px;
 }
+
 
 
 
